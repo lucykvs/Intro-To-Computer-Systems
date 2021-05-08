@@ -2,7 +2,7 @@
 
 This challenging course seeks to teach students what really happens in a computer when a program executes. The first half discusses memory management using features of C (and how they differ from Java), static and dynamic control flow, and procedures' use of the stack. A large focus of the course is on using Assembly to examine these concepts and write low-level programs.
 
-The second half of the course introduces asynchronous programming, threads, and synchronization. In assignments 10 and 11, students were required to write programs using spinlocks, mutex objects and condition variables, and semaphores to achieve desired execution. 
+The second half of the course introduces asynchronous programming, threads, and synchronization. In assignments 10 and 11, students are required to write programs using spinlocks, mutex objects and condition variables, and semaphores to achieve desired execution. 
 
 ### Course learning outcomes:
 - Using a hardware based model of execution, reason about the limitations, vulnerabilities and idiosyncrasies of the behaviour of a particular program, specifically concerning performance, bugs and security vulnerabilities.
