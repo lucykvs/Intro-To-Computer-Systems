@@ -1,5 +1,4 @@
-# Intro-To-Computer-Systems
-Assignment code for UBC's CPSC 213: Introduction to Computer Systems
+# CPSC 213: Introduction to Computer Systems (UBC)
 
 This challenging course seeks to teach students what really happens in a computer when a program executes. The first half discusses memory management using features of C (and how they differ from Java), static and dynamic control flow, and procedures' use of the stack. A large focus of the course is on using Assembly to examine these concepts and write low-level programs.
 
