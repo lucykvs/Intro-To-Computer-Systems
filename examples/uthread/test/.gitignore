@@ -1,0 +1,4 @@
+*.dSYM
+test_queue
+test_manycpu
+test_manyjoin
